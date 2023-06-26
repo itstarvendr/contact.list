@@ -1,0 +1,30 @@
+.contact-list {
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid black;
+  }
+  
+  .header {
+    background-color: #ccc;
+    padding: 10px;
+  }
+  
+  .contacts {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .contact {
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .name {
+    font-weight: bold;
+  }
+  
+  .email, .phone {
+    font-size: 12px;
+  }
+  
